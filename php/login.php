@@ -18,6 +18,11 @@
 				<p>Don't have any account?</p>
 				<a href="../php/register.php">Sign up</a>
     		</div>
+			<div>
+				<p>
+					holaaaa
+				</p>
+			</div>
 	</form>
 
 </body>
