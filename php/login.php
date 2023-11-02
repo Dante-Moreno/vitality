@@ -17,20 +17,6 @@
 			<div class="signupContainer">
 				<p>Don't have any account?</p>
 				<a href="../php/register.php">Sign up</a>
-<<<<<<< HEAD
-=======
-    		</div>
-			<div>
-				<p>
-					holaaaa
-				</p>
-				<p>
-					comoestas
-					putaso
-					marcos se la come
-				</p>
-			</div>
->>>>>>> 0e5321b01c98cc6246e3000e72bb78de14fe1ac0
 	</form>
 
 </body>
