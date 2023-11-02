@@ -1,1 +1,0 @@
-pedaso de trolaso
