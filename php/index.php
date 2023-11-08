@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<<<<<<< HEAD
     <link rel="stylesheet" href="../css/index.css">
     <title>Document</title>
 </head>
@@ -19,5 +20,12 @@
         </ul>
     </div>
     </main>
+=======
+    
+    <title>Document</title>
+</head>
+<body>
+
+>>>>>>> 969d202baadea0a71b07924cd4168b48a0ab4826
 </body>
 </html>
