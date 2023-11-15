@@ -41,3 +41,8 @@ body {
 .menu-items a:hover {
     background-color: #555;
 }
+
+.info{
+    background: #555;
+    padding: 30%;
+}

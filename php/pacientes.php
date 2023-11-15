@@ -30,15 +30,19 @@
 <<<<<<< HEAD
 <nav class="navbar navbar-light bg-light" style="margin-left: 50%;">
   <form class="form-inline" >
-=======
+
 <nav class="navbar navbar-light bg-light">
   <form class="form-inline">
->>>>>>> 90765a2e390da3c8d5666cc30da7fe3abf1bfdbe
-    <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+ 
+    <input id="search" class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
     <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
   </form>
 </nav>
 
->>>>>>>
+<div class="info">
+  
+</div>
+
+
 </body>
 </html>
