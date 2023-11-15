@@ -3,12 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<<<<<<< HEAD
+
     <link rel="stylesheet" href="../css/pacientes.css">
     <title>Document</title>
 </head>
 <body>
-     <!--<main>
+     <main>
    <div class="menu">
         <div class="logo">
             <img src="tu_logo.png" alt="Logo del consultorio">
@@ -19,21 +19,30 @@
             <li><a href="#">Pacientes</a></li>
         </ul>
     </div>
-    </main>-->
-=======
+    </main>
+
     
     <title>Document</title>
 </head>
 <body>
 
  
+<<<<<<< HEAD
+<nav class="navbar navbar-light bg-light" style="margin-left: 50%;">
+  <form class="form-inline" >
+
 <nav class="navbar navbar-light bg-light">
   <form class="form-inline">
-    <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+ 
+    <input id="search" class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
     <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
   </form>
 </nav>
 
->>>>>>>
+<div class="info">
+  
+</div>
+
+
 </body>
 </html>
