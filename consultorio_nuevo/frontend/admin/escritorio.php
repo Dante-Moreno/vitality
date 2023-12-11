@@ -179,7 +179,7 @@ $events = $req->fetchAll();
                 </div>
                 <!--<div class="card">
                     <div class="head">
-                        <div>
+                        <div>.
                             <?php 
                                             $sql = "SELECT SUM(monto) total FROM events";
                                             $result = $connect->query($sql); //$pdo sería el objeto conexión
