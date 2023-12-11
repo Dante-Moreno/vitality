@@ -12,7 +12,6 @@ define('dbpass', '');
 define('dbname', 'citas_medicas');
 =======
 define('dbname', 'consultorio-vitality');
->>>>>>> Stashed changes
 
 // Connecting database
 try {
@@ -21,7 +20,7 @@ try {
     // $connect->setAttribute(PDO::ATTR_EMULATE_PREPARES, FALSE);
     //$connect->setAttribute( PDO::ATTR_EMULATE_PREPARES, true );
     $connect->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
-    //$connect->setAttribute(PDO::ATTR_DEFAULT_FETCH_MODE, PDO::FETCH_OBJ);
+    //$connect->setAttribute(PDO::ATTR_DEFAULT_FETCH_MODE, PDO::FETCH_OBJ);<Z
 }
 catch(PDOException $e) {
     echo $e->getMessage();
