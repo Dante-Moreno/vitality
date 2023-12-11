@@ -8,7 +8,11 @@ if(!isset($_SESSION))
 define('dbhost', 'localhost');
 define('dbuser', 'root');
 define('dbpass', '');
+<<<<<<< Updated upstream
 define('dbname', 'citas_medicas');
+=======
+define('dbname', 'consultorio-vitality');
+>>>>>>> Stashed changes
 
 // Connecting database
 try {
