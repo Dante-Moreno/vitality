@@ -20,17 +20,17 @@ $events = $req->fetchAll();
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href='https://unpkg.com/boxicons@2.0.9/css/boxicons.min.css' rel='stylesheet'>
-    <link rel="stylesheet" href="../../backend/css/admin.css">
+    <link href='https://unpkg.com/boxicons@2.0.9/css/boxicons.min.css?2.0' rel='stylesheet'>
+    <link rel="stylesheet" href="../../backend/css/admin.css?2.0">
     <link rel="icon" type="image/png" sizes="96x96" href="../../backend/img/ico.svg">
 
     <!-- Data Tables -->
-        <link rel="stylesheet" href="../../backend/vendor/datatables/dataTables.bs4.css" />
-        <link rel="stylesheet" href="../../backend/vendor/datatables/dataTables.bs4-custom.css" />
-        <link href="../../backend/vendor/datatables/buttons.bs.css" rel="stylesheet" />
+        <link rel="stylesheet" href="../../backend/vendor/datatables/dataTables.bs4.css?1.0" />
+        <link rel="stylesheet" href="../../backend/vendor/datatables/dataTables.bs4-custom.css?1.0" />
+        <link href="../../backend/vendor/datatables/buttons.bs.css?2.0" rel="stylesheet" />
 
         <!-- FullCalendar -->
-    <link href='../../backend/css/fullcalendar.css' rel='stylesheet' />
+    <link href='../../backend/css/fullcalendar.css?2.0' rel='stylesheet' />
         <style type="text/css">
             #calendar {
         max-width: 800px;

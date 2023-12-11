@@ -386,6 +386,7 @@ hr.fc-divider {
 	border-collapse: collapse;
 	border-spacing: 0;
 	font-size: 1em; /* normalize cross-browser */
+	border-radius: 10px;
 }
 
 .fc th {
@@ -398,6 +399,7 @@ hr.fc-divider {
 	border-width: 1px;
 	padding: 0;
 	vertical-align: top;
+	border-radius: 10px;
 }
 
 .fc td.fc-today {
@@ -422,6 +424,7 @@ hr.fc-divider {
 
 	/* no bottom borders on rows */
 	border-bottom: 0 hidden transparent; 
+	border-radius: 10px;
 }
 
 .fc-row:first-child table {

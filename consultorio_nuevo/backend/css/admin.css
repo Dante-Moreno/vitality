@@ -12,7 +12,7 @@
 	--dark-grey: #8D8D8D;
 	--light: #fff;
 	--dark: #000;
-	--green: #81D43A;
+	--green: #1e2c4b;
 	--light-green: #E3FFCB;
 	--blue: #1e2c4b;
 	--light-blue: #D0E4FF;
@@ -617,6 +617,7 @@ main .btn-send:hover {
   font-weight: normal;
   text-align: center;
   color: white;
+  border-radius: 5px;
 }
 .responsive-table thead th:first-of-type {
   text-align: left;
