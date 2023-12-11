@@ -93,16 +93,7 @@ $events = $req->fetchAll();
     <!-- NAVBAR -->
     <section id="content">
         <!-- NAVBAR -->
-        <nav>
-            <i class='bx bx-menu toggle-sidebar' ></i>
-            <form action="#">
-                <div class="form-group">
-                    <input type="text" placeholder="Search...">
-                    <i class='bx bx-search icon' ></i>
-                </div>
-            </form>
-            
-           
+        <nav>   
             <span class="divider"></span>
             <div class="profile">
                 <img src="../../latido-del-corazon.png" alt="">
