@@ -9,23 +9,23 @@ $(function(){
 	});
 });
 
-// PDF Download Only
+
+
+// FPrint/Copy/CSV
 $(function(){
-	$('#pdfDownloadOnly').DataTable({
+	$('#copy-print-csv').DataTable( {
 		dom: 'Bfrtip',
 		buttons: [
-			{
-				extend: 'pdfHtml5',
-				text: 'Download PDF',
-				filename: 'your_file_name',
-				exportOptions: {
-					columns: ':visible'
-				}
-			}
+			'copyHtml5',
+			'excelHtml5',
+			'csvHtml5',
+			'pdfHtml5',
+			'print'
 		],
 		'iDisplayLength': 5,
 	});
 });
+
 
 // Fixed Header
 $(document).ready(function(){
@@ -39,6 +39,7 @@ $(document).ready(function(){
 	});
 });
 
+
 // Vertical Scroll
 $(function(){
 	$('#scrollVertical').DataTable({
@@ -48,6 +49,8 @@ $(function(){
 		"bInfo" : false,
 	});
 });
+
+
 
 // Row Selection
 $(function(){
@@ -69,6 +72,8 @@ $(function(){
 	});
 });
 
+
+
 // Highlighting rows and columns
 $(function(){
 	$('#highlightRowColumn').DataTable({
@@ -85,6 +90,8 @@ $(function(){
 	});
 });
 
+
+
 // Using API in callbacks
 $(function(){
 	$('#apiCallbacks').DataTable({
@@ -95,11 +102,12 @@ $(function(){
 		"initComplete": function(){
 			var api = this.api();
 			api.$('td').on('click', function(){
-				api.search(this.innerHTML).draw();
-			});
+			api.search(this.innerHTML).draw();
+		});
 		}
 	});
 });
+
 
 // Hiding Search and Show entries
 $(function(){
