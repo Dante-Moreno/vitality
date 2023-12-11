@@ -69,19 +69,7 @@
 
            
 
-            <li>
-                <a href="#"><i class='bx bxs-cog icon' ></i> Ajustes<i class='bx bx-chevron-right icon-right' ></i></a>
-                <ul class="side-dropdown">
-                    <li><a href="../ajustes/mostrar.php">Ajustes</a></li>
-                    <li><a href="../ajustes/idioma.php">Idioma</a></li>
-                    <li><a href="../ajustes/base.php">Base de datos</a></li>
-                    
-                </ul>
-            </li>
-
-      <li><a href="../acerca/mostrar.php"><i class='bx bxs-info-circle icon' ></i> Acerca de</a></li>
-          
-           
+         
         </ul>
        
 
