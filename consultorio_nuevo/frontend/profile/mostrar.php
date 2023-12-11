@@ -21,13 +21,13 @@
 
 
 
-    <title>Clínica Salud | Mi perfil</title>
+    <title>VITALITY | Mi perfil</title>
 </head>
 <body>
     
     <!-- SIDEBAR -->
     <section id="sidebar">
-        <a href="../admin/escritorio.php" class="brand"><i class='bx bxs-heart icon'></i> Clínica Salud</a>
+        <a href="../admin/escritorio.php" class="brand"><i class='bx bxs-heart icon'></i> VITALITY</a>
         <ul class="side-menu">
             <li><a href="../admin/escritorio.php" ><i class='bx bxs-dashboard icon' ></i> Dashboard</a></li>
             <li class="divider" data-text="main">Main</li>

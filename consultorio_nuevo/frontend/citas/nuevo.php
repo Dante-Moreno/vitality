@@ -20,14 +20,14 @@
 
 
 
-    <title>Clínica Salud | Nueva cita</title>
+    <title>VITALITY | Nueva cita</title>
 </head>
 <body>
 
     <!-- SIDEBAR -->
     <section id="sidebar">
 
-        <a href="../admin/escritorio.php" class="brand"><i class='bx bxs-heart icon'></i> Clínica Salud</a>
+        <a href="../admin/escritorio.php" class="brand"><i class='bx bxs-heart icon'></i>VITALITY</a>
         <ul class="side-menu">
             <li><a href="../admin/escritorio.php" ><i class='bx bxs-dashboard icon' ></i> Dashboard</a></li>
             <li class="divider" data-text="main">Main</li>
@@ -45,7 +45,7 @@
                 <a href="#"><i class='bx bxs-user icon' ></i> Pacientes <i class='bx bx-chevron-right icon-right' ></i></a>
                 <ul class="side-dropdown">
                     <li><a href="../pacientes/mostrar.php" >Lista de pacientes</a></li>
-                    <li><a href="../pacientes/pagos.php">Pagos</a></li>
+                   
                     <li><a href="../pacientes/historial.php">Historial de los pacientes</a></li>
                     <li><a href="../pacientes/documentos.php">Documentos</a></li>
                    
@@ -64,34 +64,7 @@
 
             
 
-           <!--<li>
-                <a href="#"><i class='bx bxs-user-pin icon' ></i> Recursos humanos<i class='bx bx-chevron-right icon-right' ></i></a>
-                <ul class="side-dropdown">
-                    <li><a href="../recursos/enfermera.php">Enfermera</a></li>
-                    <li><a href="../recursos/laboratiorios.php">Laboratorios</a></li>
-                    
-                </ul>
-            </li>
-
-            <li>
-                <a href="#"><i class='bx bxs-diamond icon' ></i> Actividades financieras<i class='bx bx-chevron-right icon-right' ></i></a>
-                <ul class="side-dropdown">
-                    <li><a href="../actividades/mostrar.php">Pagos</a></li>
-                    <li><a href="../actividades/nuevo.php">Nuevo pago</a></li>
-                   
-                </ul>
-            </li>
-
-            <li>
-                <a href="#"><i class='bx bxs-spray-can icon' ></i> Medicina<i class='bx bx-chevron-right icon-right' ></i></a>
-                <ul class="side-dropdown">
-                    <li><a href="../medicinas/venta.php">Vender</a></li>
-                    <li><a href="../medicinas/mostrar.php">Listado</a></li>
-                    <li><a href="../medicinas/nuevo.php">Nueva</a></li>
-                    <li><a href="../medicinas/categoria.php">Categoria</a></li>
-
-                </ul>
-            </li>-->
+         
 
             <li>
                 <a href="#"><i class='bx bxs-cog icon' ></i> Ajustes<i class='bx bx-chevron-right icon-right' ></i></a>
