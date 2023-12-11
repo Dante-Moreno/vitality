@@ -177,7 +177,7 @@ $events = $req->fetchAll();
                     </div>
                    
                 </div>
-                <div class="card">
+                <!--<div class="card">
                     <div class="head">
                         <div>
                             <?php 
@@ -192,7 +192,7 @@ $events = $req->fetchAll();
                         <i class='bx bx-book-alt icon' ></i>
                     </div>
                    
-                </div>
+                </div>-->
             </div>
             <div class="data">
                 <div class="content-data">
