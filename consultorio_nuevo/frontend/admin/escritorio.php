@@ -168,22 +168,7 @@ $events = $req->fetchAll();
                     </div>
                    
                 </div>
-                <!--<div class="card">
-                    <div class="head">
-                        <div>.
-                            <?php 
-                                            $sql = "SELECT SUM(monto) total FROM events";
-                                            $result = $connect->query($sql); //$pdo sería el objeto conexión
-                                            $total = $result->fetchColumn();
-
-                                             ?>
-                            <h2>S/.<?php echo  $total; ?></h2>
-                            <p>Citas</p>
-                        </div>
-                        <i class='bx bx-book-alt icon' ></i>
-                    </div>
-                   
-                </div>-->
+             
             </div>
             <div class="data">
                 <div class="content-data">
